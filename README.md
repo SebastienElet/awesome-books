@@ -10,4 +10,10 @@ A collection of awesome books for IT
 
 Vim is a fast and efficient text editor that will make you a faster and more efficient developer. It’s available on almost every OS—if you master the techniques in this book, you’ll never need another text editor.
 
-## Time/Task managment
+## Time/Task management
+###[Pomodoro Technique](http://pomodorotechnique.com/book/)
+
+<img src="http://d.gr-assets.com/books/1378948919l/18482790.jpg" width="120px" />
+
+The Pomodoro Technique isn’t like any other time-management method on the market today.  
+Work with time, not against it !
