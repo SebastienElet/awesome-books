@@ -1,4 +1,4 @@
-# Awesome Books
+# Awesome Books [![Build Status](https://travis-ci.org/SebastienElet/awesome-books.svg?branch=master)](https://travis-ci.org/SebastienElet/awesome-books)
 A collection of awesome books for IT
 
 ## Programming
