@@ -17,3 +17,9 @@ Vim is a fast and efficient text editor that will make you a faster and more eff
 
 The Pomodoro Technique isn’t like any other time-management method on the market today.  
 Work with time, not against it !
+
+###[Pomodoro Technique Illustrated](https://pragprog.com/book/snfocus/pomodoro-technique-illustrated)
+
+<img src="http://ecx.images-amazon.com/images/I/51P8HuDM4-L._SL500_.jpg" width="120px"/>
+
+Do you ever look at the clock and wonder where the day went? You spent all this time at work and didn’t come close to getting everything done. Tomorrow, try something new
