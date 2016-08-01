@@ -11,6 +11,12 @@ A collection of awesome books for IT
 Vim is a fast and efficient text editor that will make you a faster and more efficient developer. It’s available on almost every OS—if you master the techniques in this book, you’ll never need another text editor.
 
 ## Time/Task management
+###[Getting Things Done](http://gettingthingsdone.com/)
+
+<img src="https://upload.wikimedia.org/wikipedia/en/e/e1/Getting_Things_Done.jpg" width="120px" />
+
+Our productivity is directly proportional to our ability to relax. Only when our minds are clear and our thoughts are organized can we achieve effective productivity and unleash our creative potential.
+
 ###[Pomodoro Technique](http://pomodorotechnique.com/book/)
 
 <img src="http://d.gr-assets.com/books/1378948919l/18482790.jpg" width="120px" />
