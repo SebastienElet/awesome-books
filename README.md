@@ -2,6 +2,13 @@
 A collection of awesome books for IT
 
 ## Programming
+
+### [Refactorig](https://martinfowler.com/books/refactoring.html)
+
+<img src="https://martinfowler.com/books/refact2.jpg" width="120px"/>
+
+Like a recipe book, Martin Fowler describe all the common pattern used by senior developpers. It put words on automatism we have.
+
 ## Unix
 ## Editors
 ### [Practical Vim](https://pragprog.com/book/dnvim/practical-vim)
