@@ -9,7 +9,12 @@ A collection of awesome books for IT
 
 Like a recipe book, Martin Fowler describe all the common pattern used by senior developpers. It put words on automatism we have.
 
-## Unix
+### [Extreme programming](https://martinfowler.com/bliki/ExtremeProgramming.html)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/41b11Tipy0L.jpg" width="120px"/>
+
+It was one of the first agile method and defined many practices of the modern software developement.
+
 ## Editors
 ### [Practical Vim](https://pragprog.com/book/dnvim/practical-vim)
 
