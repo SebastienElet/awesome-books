@@ -3,7 +3,7 @@ A collection of awesome books for IT
 
 ## Programming
 
-### [Refactorig](https://martinfowler.com/books/refactoring.html)
+### [Refactoring](https://martinfowler.com/books/refactoring.html)
 
 <img src="https://martinfowler.com/books/refact2.jpg" width="120px"/>
 
